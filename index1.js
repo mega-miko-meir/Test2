@@ -13,5 +13,9 @@ app.listen(port, () => {
   console.log(`Listening on port ${port}`);
 });
 
+<<<<<<< HEAD
 console.log("Testing git and github");
 console.log("Testing git and github much more");
+=======
+console.log("This console log for testing");
+>>>>>>> readme
